@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Traders are slaves to volatility" Anton Kreil
 Use the left arrow to go back!
